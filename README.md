@@ -15,9 +15,6 @@ Thankyou
 
 Circuits Implemented
 
-1)     [3_bit_squarer] (https://github.com/harshitthakur7168/Verilog_Journey/tree/main/3Bit_squarer)
+1)     [3_bit_squarer](https://github.com/harshitthakur7168/Verilog_Journey/tree/main/3Bit_squarer)
 
-https://github.com/harshitthakur7168/Verilog_Journey/tree/main/3Bit_squarer
-
-![cktdiagram](https://user-images.githubusercontent.com/96690206/184195346-cedbff4f-9921-45d8-9f2f-3c14c8c0c1f7.png)
 
