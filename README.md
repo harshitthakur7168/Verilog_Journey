@@ -15,6 +15,6 @@ Thankyou
 
 Circuits Implemented
 1) [3_bit_squarer](https://github.com/harshitthakur7168/Verilog_Journey/tree/main/3Bit_squarer)
-2) [Half_Adder] (https://github.com/harshitthakur7168/Verilog_Journey/tree/main/Halfadder)
+2) [Half_Adder](https://github.com/harshitthakur7168/Verilog_Journey/tree/main/Halfadder)
 
  
