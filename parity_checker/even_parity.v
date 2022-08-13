@@ -1,5 +1,5 @@
 `timescale 1ns / 1ps
-
+// PFA truth table and circuit diagram for each code
 module even_parity(
     input a,
     input b,
