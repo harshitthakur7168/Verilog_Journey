@@ -20,3 +20,6 @@ full_adder x2(S2, c3, A2, B2, c2);
 full_adder x3(S3, c4, A3, B3, c3);
 
 endmodule
+
+
+//
