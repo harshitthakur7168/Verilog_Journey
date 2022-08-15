@@ -10,10 +10,15 @@ wire not_x1, not_x0;
 not (not_x1, x1);
 not (not_x0, x0);
 
-and (y0, not_x1,not_x0, E);
-and (y1, not_x1, x0, E);
-and (y2, not_x0, x1, E);
-and (y3, x1, x0, E);
+    
 
+    and (y0, not_x1,not_x0, E);
 
+    and (y1, not_x1, x0, E);
+
+    and (y2, not_x0, x1, E);
+
+    and (y3, x1, x0, E);
+
+    
 endmodule
