@@ -11,6 +11,4 @@ nand (qbar,nand2_out,q);
 
   
   
-  
-  
 endmodule
