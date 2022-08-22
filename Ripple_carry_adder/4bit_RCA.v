@@ -14,6 +14,8 @@ module bit_RCA(
     );
 wire c1,c2,c3;
 
+   
+   
 full_adder x0(S0, c1, A0, B0, cin);
 full_adder x1(S1, c2, A1, B1, c1);
 full_adder x2(S2, c3, A2, B2, c2);
