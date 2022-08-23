@@ -21,5 +21,6 @@ Circuits Implemented
 5) [4Bit_RCA](https://github.com/harshitthakur7168/Verilog_Journey/tree/main/Ripple_carry_adder)
 6) [Encoder](https://github.com/harshitthakur7168/Verilog_Journey/tree/main/encoder)
 7) [Decoder](https://github.com/harshitthakur7168/Verilog_Journey/tree/main/decoder)
+8) [Flip Flops](https://github.com/harshitthakur7168/Verilog_Journey/tree/main/flipflops)
 
  
