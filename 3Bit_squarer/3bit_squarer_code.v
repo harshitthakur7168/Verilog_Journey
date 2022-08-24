@@ -11,6 +11,8 @@
 // Additional Comments: Learner. Suggestions are welcomed
 //
 //////////////////////////////////////////////////////////////////////////////////
+
+
 module squarerr(
     input [2:0] A,
     output [5:0] Y
