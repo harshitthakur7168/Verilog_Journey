@@ -4,6 +4,8 @@
 
 I am a learner seeking opportunities in semiconductor industry. 
 
+I write gate level modelling of the circuit which helps be understand the internal workingof the circuit. These smaller gate level models can be instanted with larger code thus give better understanding of data flow.
+
 I have recently started uploading verilog codes on github so that i can show in interview. Also i am working on a verilog project which ill be uploading soon. 
 I am open to suggestion, improvements and compliments too xd . 
 
